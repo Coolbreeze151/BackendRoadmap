@@ -1,0 +1,36 @@
+### [Back Home](../readme.md)
+
+# Pandera Setup
+
+This repository contains an example script to validate CSV files using Pandera. The script reads CSV files from the `data/` directory and validates them against a predefined schema.
+
+## Setup
+
+Follow these steps to set up the environment and run the validation script.
+
+### 1. Install Pandera
+
+First, you need to install Pandera. You can do this using pip:
+
+```sh
+pip install pandera
+```
+
+### 2. Prepare the Data
+
+Ensure you have the CSV files in the `data/` directory. The expected CSV files should have the following columns:
+
+
+
+### 3. Run the Validation Script
+
+Navigate to the directory containing the `pandera-validate.py` script and run it:
+
+```sh
+cd pandera
+python pandera-validate.py
+```
+
+If the validation is successful you should be able to get a successful validation output as shown below.
+
+![Results](img/results-validate.png)
