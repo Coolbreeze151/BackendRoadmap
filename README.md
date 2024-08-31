@@ -4,15 +4,15 @@
 
 | Topic                                    | Completed |
 | ---------------------------------------- | --------- |
-| [Internet]()                             | No        |
-| [Version Control Systems]()              | Yes        |
-| [Relational Databases](/BackendRoadmap/RelationalDatabases/readme.md)                 | Yes        |
-| [APIs]()                                 | No        |
-| [Caching]()                              | No        |
-| [Web Security Knowledge]()               | No        |
-| [Testing](/BackendRoadmap/Testing/readme.md)                              | Yes        |
-| [Scaling Databases]()                    | No        |
-| [More about Databases]()                 | No        |
-| [Message Brokers]()                      | No        |
-| [NoSQL Databases]()                      | No        |
+| [APIs](BackendRoadmap/APIs/readme)                                 | Yes        |
 | [Architectural Patterns]()               | No        |
+| [Caching]()                              | No        |
+| [Internet](BackendRoadmap/Internet/readme)                             | Yes        |
+| [Message Brokers]()                      | No        |
+| [More about Databases]()                 | No        |
+| [NoSQL Databases]()                      | No        |
+| [Relational Databases](/BackendRoadmap/RelationalDatabases/readme.md)                 | Yes        |
+| [Scaling Databases]()                    | No        |
+| [Testing](/BackendRoadmap/Testing/readme.md)                              | Yes        |
+| [Version Control Systems](/BackendRoadmap/VersionControlSystems/readme)              | Yes        |
+| [Web Security Knowledge]()               | No        |
