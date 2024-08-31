@@ -6,7 +6,7 @@
 | ---------------------------------------- | --------- |
 | [Internet]()                             | No        |
 | [Version Control Systems]()              | No        |
-| [Relational Databases](/BackendRoadmap/RelationalDatabases/readme.md)                 | No        |
+| [Relational Databases](/BackendRoadmap/RelationalDatabases/readme.md)                 | Yes        |
 | [APIs]()                                 | No        |
 | [Caching]()                              | No        |
 | [Web Security Knowledge]()               | No        |
