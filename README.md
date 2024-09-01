@@ -15,4 +15,4 @@
 | [Scaling Databases]()                    | No        |
 | [Testing](/BackendRoadmap/Testing/readme.md)                              | Yes        |
 | [Version Control Systems](/BackendRoadmap/VersionControlSystems/readme)              | Yes        |
-| [Web Security Knowledge]()               | No        |
+| [Web Security Knowledge](BackendRoadmap/WebSecurity/readme)               | Yes        |
