@@ -5,7 +5,7 @@
 | Topic                                    | Completed |
 | ---------------------------------------- | --------- |
 | [APIs](BackendRoadmap/APIs/readme)                                 | Yes        |
-| [Architectural Patterns]()               | No        |
+| [Architectural Patterns](/BackendRoadmap/ArchitecturalPatterns/readme)               | Yes        |
 | [Caching]()                              | No        |
 | [Internet](BackendRoadmap/Internet/readme)                             | Yes        |
 | [Message Brokers]()                      | No        |
