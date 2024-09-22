@@ -13,8 +13,8 @@
 | [NoSQL Databases]()                      | No        |
 | [Real Time Data]()                 | No             |
 | [Relational Databases](/BackendRoadmap/RelationalDatabases/readme.md)                 | Yes        |
-| [Search Engines]()                    | No        |
-| [Scaling Databases]()                    | No        |
+| [Search Engines](/BackendRoadmap/SearchEngines/readme.md)                    | Yes       |
+| [Scaling Databases](/BackendRoadmap/ScalingDatabases/readme.md)                    | Yes        |
 | [Testing](/BackendRoadmap/Testing/readme.md)                              | Yes        |
 | [Version Control Systems](/BackendRoadmap/VersionControlSystems/readme)              | Yes        |
 | [Web Security Knowledge](BackendRoadmap/WebSecurity/readme)               | Yes        |
