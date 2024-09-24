@@ -8,10 +8,10 @@
 | [Architectural Patterns](/BackendRoadmap/ArchitecturalPatterns/readme)               | Yes        |
 | [Caching](/BackendRoadmap/Caching/readme)                              | Yes        |
 | [Internet](BackendRoadmap/Internet/readme)                             | Yes        |
-| [Message Brokers]()                      | No        |
+| [Message Brokers](/BackendRoadmap/MessageBrokers/readme.md)                      | Yes        |
 | [More about Databases](/BackendRoadmap/MoreAboutDatabases/readme)                 | Yes        |
 | [NoSQL Databases]()                      | No        |
-| [Real Time Data]()                 | No             |
+| [Real Time Data](/BackendRoadmap/RealTimeData/readme.md)                 | Yes             |
 | [Relational Databases](/BackendRoadmap/RelationalDatabases/readme.md)                 | Yes        |
 | [Search Engines](/BackendRoadmap/SearchEngines/readme.md)                    | Yes       |
 | [Scaling Databases](/BackendRoadmap/ScalingDatabases/readme.md)                    | Yes        |
