@@ -165,7 +165,7 @@ Refer to list of example NoSQL Database here for more details
 | Type           | Example |
 |----------------|---------|
 | Document DBs   |[Mongo DB](./mongodb/readme.md)         |
-| Key-Value DBs  |[Redis]()         |
+| Key-Value DBs  |[Redis](./redis/readme.md)         |
 | Column DBs     |[Cassandra]()         |
 | Graph DBs      | [Neo4J](./neo4j/readme.md)        |
 | Time Series DBs|[Influx DB]()         |
