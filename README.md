@@ -10,7 +10,7 @@
 | [Internet](BackendRoadmap/Internet/readme)                             | Yes        |
 | [Message Brokers](/BackendRoadmap/MessageBrokers/readme.md)                      | Yes        |
 | [More about Databases](/BackendRoadmap/MoreAboutDatabases/readme)                 | Yes        |
-| [NoSQL Databases]()                      | No        |
+| [NoSQL Databases](/BackendRoadmap/NoSqlDatabases/readme.md)                      | Yes        |
 | [Real Time Data](/BackendRoadmap/RealTimeData/readme.md)                 | Yes             |
 | [Relational Databases](/BackendRoadmap/RelationalDatabases/readme.md)                 | Yes        |
 | [Search Engines](/BackendRoadmap/SearchEngines/readme.md)                    | Yes       |
