@@ -2,6 +2,15 @@
 
 # InfluxDB
 
+## Table of Contents
+
+- [What is InfluxDB](#what-is-influxdb)
+- [Key Concepts in InfluxDB](#key-concepts-in-influxdb)
+- [Why InfluxDB](#why-influxdb)
+- [Key Benefits of InfluxDB](#key-benefits-of-influxdb)
+- [Common Use Cases for InfluxDB](#common-use-cases-for-influxdb)
+- [Resources](#resources)
+
 InfluxDB is an open-source time series database designed for storing, querying, and analyzing high volumes of time-stamped data, such as metrics, events, and sensor readings. It is optimized for time series workloads, offering high performance and scalability, making it a popular choice for monitoring systems, IoT applications, and real-time analytics.
 
 ## What is InfluxDB
@@ -61,7 +70,5 @@ InfluxDB stands out as one of the most efficient and scalable databases for time
 - [InfluxDB API Reference](https://docs.influxdata.com/influxdb/v2.0/reference/api/): Detailed reference for using the InfluxDB APIs to write and query time series data programmatically.
 
 - [Getting Started with InfluxDB](https://docs.influxdata.com/influxdb/v2.0/get-started/): A step-by-step guide to setting up InfluxDB, writing your first data points, and querying time series data.
-
-- [InfluxDB University](https://www.influxdata.com/training/): Free online courses from InfluxData to learn about time series databases and how to use InfluxDB effectively.
 
 [Back to top](#top)
