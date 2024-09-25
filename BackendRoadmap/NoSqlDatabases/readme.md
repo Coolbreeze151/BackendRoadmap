@@ -164,11 +164,11 @@ Refer to list of example NoSQL Database here for more details
 
 | Type           | Example |
 |----------------|---------|
-| Document DBs   |[]         |
-| Key-Value DBs  |         |
-| Column DBs     |         |
+| Document DBs   |[Mongo DB](./mongodb/readme.md)         |
+| Key-Value DBs  |[Redis]()         |
+| Column DBs     |[Cassandra]()         |
 | Graph DBs      | [Neo4J](./neo4j/readme.md)        |
-| Time Series DBs|         |
-| Real-Time DBs  |         |
+| Time Series DBs|[Influx DB]()         |
+| Real-Time DBs  |[Firebase]()         |
 
 [Back to top](#top)
